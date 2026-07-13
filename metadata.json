@@ -1,0 +1,6 @@
+{
+  "name": "MathPic Snip",
+  "description": "एक मैथपिक्स जैसा स्नीपिंग टूल जो इमेज के मैथ फॉर्मूला और टेक्स्ट को एमएस वर्ड में पेस्ट करने लायक एडिटेबल LaTeX और टेक्स्ट में बदलता है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
